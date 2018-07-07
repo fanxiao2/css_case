@@ -44,9 +44,21 @@
 * #ffffff
 * #009220
 
-### text-align 用法 （设置文本水平对齐方式） 常用属性：
+### text-align 用法 （设置文本水平对齐方式） 常用属性值：
 
 * left
 * right
 * center
 * justify
+
+### vertical-aling (设置垂直对齐) 常用属性值：
+
+* top
+* middle
+* bottom
+* baseline
+* sub
+* super
+* %
+* px
+* pt或（cm）

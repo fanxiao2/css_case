@@ -1,0 +1,39 @@
+td.top {
+    vertical-align: top;
+}
+
+td.middle {
+    vertical-align: middle;
+}
+
+td.bottom {
+    vertical-align: bottom;
+}
+
+span.baseline {
+    vertical-align: baseline;
+}
+
+span.sub {
+    vertical-align: sub;
+}
+
+span.super {
+    vertical-align: super;
+}
+
+span.pixel {
+    vertical-align: -20px;
+}
+
+.main {
+    height: 138px;
+    width: 138px;
+    display: inline-table;
+    background-color: aquamarine;
+}
+
+.paragraph {
+    display: table-cell;
+    vertical-align: middle;
+}
