@@ -82,3 +82,24 @@
 * 第二个值：定义y（垂直）方向的距离
 * 第三个值：定义阴影的模糊
 * 第四个值：设置颜色
+
+## CSS属性
+
+### css盒模型 属性有（顶部 top, 右侧 right, 左侧 left bottom 底部）
+
+* 边距 margin
+* 边框 border
+* 填充 padding
+
+### border-style属性:
+
+* dotted 虚线
+* dashed 虚线
+* double 双精度
+
+### background-{参数} 背景颜色 ：
+
+* color
+* image
+* repeat
+* attachment
