@@ -43,3 +43,10 @@
 * green
 * #ffffff
 * #009220
+
+### text-align 用法 （设置文本水平对齐方式） 常用属性：
+
+* left
+* right
+* center
+* justify
