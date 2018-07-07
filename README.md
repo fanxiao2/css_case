@@ -62,3 +62,12 @@
 * %
 * px
 * pt或（cm）
+
+#### text-decoration 用法 （制定文本的装饰方法）常用属性值：
+
+* none
+* inherit
+* overline
+* underline
+* line-through
+* blink (是文字闪烁，貌似很多浏览器已经弃用！)
