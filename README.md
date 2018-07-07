@@ -16,3 +16,8 @@
 * larger
 * 等等...  当然，也别忽略了像素（px）和单位(em) 字体大小也是可以通过单位属性来设置的
 
+### font-style用法 （指定斜体文本）常用属性有：
+
+* normal
+* italic
+* oblique
