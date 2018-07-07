@@ -63,7 +63,7 @@
 * px
 * pt或（cm）
 
-#### text-decoration 用法 （制定文本的装饰方法）常用属性值：
+### text-decoration 用法 （制定文本的装饰方法）常用属性值：
 
 * none
 * inherit
@@ -71,3 +71,14 @@
 * underline
 * line-through
 * blink (是文字闪烁，貌似很多浏览器已经弃用！)
+
+### text-indent 用法 （文本缩进）
+
+* 80px
+
+### text-shadow 用法 （添加文本阴影）常用属性值：
+
+* 第一个值：定义阴影在x（水平）方向的距离
+* 第二个值：定义y（垂直）方向的距离
+* 第三个值：定义阴影的模糊
+* 第四个值：设置颜色
