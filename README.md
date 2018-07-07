@@ -35,3 +35,11 @@
 * normal
 * small-caps
 * inherit 
+
+### color 用法 （设置文本颜色）常用属性颇多：
+
+* red
+* blue
+* green
+* #ffffff
+* #009220
