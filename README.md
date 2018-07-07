@@ -103,3 +103,11 @@
 * image
 * repeat
 * attachment
+
+### list-style-type 属性：
+
+* circle
+* square
+* decimal
+* disc
+* lower-alpha
