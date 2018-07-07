@@ -1,0 +1,17 @@
+bold light bolder
+
+p.bold {
+    font-weight: bold;
+}
+
+p.lighter {
+    font-weight: lighter;
+}
+
+p.bolder {
+    font-weight: bolder;
+}
+
+p.nine-hundred {
+    font-weight: 900;
+}

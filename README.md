@@ -21,3 +21,11 @@
 * normal
 * italic
 * oblique
+
+### font-weight用法 （设置文本字体粗细）常用属性：
+
+* normal (默认)
+* bold
+* bolder
+* lighter
+* 也可以使用 100-900 区间的值来设定想要的字体大小 400 相当于 normal 700 相当于 bold
