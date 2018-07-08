@@ -121,3 +121,8 @@
 * none
 * inline
 * block
+
+### visibility 属性 （指定元素为可见还是隐藏）：
+
+* visible
+* hidden
