@@ -135,3 +135,9 @@
 * bottom
 * left
 * right
+
+### float 属性 （将元素向左或者向右推）：
+
+* left 会使元素向左浮动
+* right 会使元素向右浮动
+* none 确保元素无浮动
