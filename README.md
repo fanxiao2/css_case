@@ -113,3 +113,11 @@
 * lower-alpha
 
 ### table
+
+## CSS布局
+
+### display 属性：
+
+* none
+* inline
+* block
