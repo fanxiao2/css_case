@@ -126,3 +126,12 @@
 
 * visible
 * hidden
+
+### position 属性 (允许定位一个元素)：
+
+* relative
+* absolute
+* tap
+* bottom
+* left
+* right

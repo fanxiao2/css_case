@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>position</title>
+    <style>
+        /* .position{
+            position: static;
+            top: 50px;
+            right: 10px;
+            color: chartreuse;
+        } */
+
+        .position{
+            position: fixed;
+            top: 50px;
+            right: 120px;
+            color: blue;
+        }
+
+        span{
+            background: yellow;
+            position: relative;
+            left: 30px;
+            top: 150px;
+        }
+    </style>
+    
+</head>
+<body>
+    <p>无定位</p>
+    <p>不定位</p>
+    <p>就不定位</p>
+    <p>没有定位</p>
+    <p>我不定位咋地</p>
+    <p class="position">我用了定位，你没意见吧</p>
+
+    <span>小二江湖</span>
+</body>
+</html>
