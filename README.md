@@ -143,3 +143,11 @@
 * none 确保元素无浮动
 
 ### 清除浮动
+
+### voerflow 属性
+
+* visible
+* scroll
+* hidden
+* auto
+
